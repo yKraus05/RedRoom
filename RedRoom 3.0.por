@@ -6,7 +6,7 @@ programa {
     escreva("\nDesenvolvedores:Gabriel Klaumann, Lucas Francisco, Gabriel Antunes")
     escreva("\nData:24/06/2025")
     escreva("\nUnidade curricular:Lógica de Programação")
-    escreva("\nBem vindo ao RedRoom, uma curta metragem de um jogo suspense...Você está preparado?\nSim ou não :")
+    escreva("\nBem vindo ao RedRoom, uma curta metragem de um jogo suspense... Você está preparado?\nSim ou não :")
     leia(introducao)
     escolha(t.caixa_baixa(introducao)){
       caso("sim"):
@@ -60,7 +60,7 @@ programa {
       pare    
     }escolha(op1_4){
       caso'1':
-      escreva("\nVocê corre e por sorte consegue achar um lugar para se esconder, um quarto com uma temática meio avermelhada,muito assustador,cheio de móveis velhos e um livro macabro em cima da mesa.\nE você continua investigando para tentar achar uma saída")
+      escreva("\nVocê corre e por sorte consegue achar um lugar para se esconder, um quarto com uma temática meio avermelhada, muito assustador, cheio de móveis velhos e um livro macabro em cima da mesa.\nE você continua investigando para tentar achar uma saída")
       escreva("\nOpções: ")
       escreva("\nInvestigar as gavetas (1)")
       escreva("\nLer um pouco do livro (2)")
@@ -87,7 +87,7 @@ programa {
           pare
           
           caso'2':
-          escreva("\nLendo um pouco desse livro, você lê anotações sobre os sequestros,e descobre que os sequestradores gostam muito de brincar com suas 'presas', e você percebe que é mais uma vítima, e que cada minuto nesse lugar, mais perigoso fica...")
+          escreva("\nLendo um pouco desse livro, você lê anotações sobre os sequestros, e descobre que os sequestradores gostam muito de brincar com suas 'presas', e você percebe que é mais uma vítima, e que cada minuto nesse lugar, mais perigoso fica...")
           escreva("\nOpções: ")
           escreva("\nVoltar nas outras alternativas (1)")
           escreva("\n:")
@@ -95,7 +95,7 @@ programa {
           pare
           
           caso'3':
-          escreva("\nSaindo do quarto você corre sem saber pra onde ir, mas acaba chegando em um cômodo onde tem uma porta que parece ser a saída!\nMas um dos sequestradores aparece e oferece uma chance de você sair de lá...que seria jogar um jogo muito conhecido por sua brutalidade....Roleta Russa. ")
+          escreva("\nSaindo do quarto você corre sem saber pra onde ir, mas acaba chegando em um cômodo onde tem uma porta que parece ser a saída!\nMas um dos sequestradores aparece e oferece uma chance de você sair de lá... que seria jogar um jogo muito conhecido por sua brutalidade.... Roleta Russa. ")
           escreva("\nSabendo que você não tem chance contra ele, você aceita o jogo e pede pra ele explicar as regras, ele explica que em sua arma cabe 12 balas, ele vai colocar 4 falsas, 4 verdadeiras e o resto deixar sem nada, se cair na verdadeira você morre, se cair na falsa você vai trabalhar pra eles e viver ali pra sempre e se não tiver nada, você vive.")
           escreva("\nEle colocou em ordem aleatória, e você tem que falar um número de 1 a 12....")
           escreva("\n:")
@@ -119,7 +119,7 @@ programa {
             leia(op1_8)
             pare
             caso'2':
-            escreva("\nSaindo do quarto você corre sem saber pra onde ir, mas acaba chegando em um cômodo onde tem uma porta que parece ser a sair!\nMas um dos sequestradores aparece e oferece uma chance de você sair de lá...que seria jogar um jogo muito conhecido por sua brutalidade....Roleta Russa. ")
+            escreva("\nSaindo do quarto você corre sem saber pra onde ir, mas acaba chegando em um cômodo onde tem uma porta que parece ser a sair!\nMas um dos sequestradores aparece e oferece uma chance de você sair de lá...que seria jogar um jogo muito conhecido por sua brutalidade.... Roleta Russa. ")
           escreva("\nSabendo que você não tem chance contra ele, você aceita o jogo e pede pra ele explicar as regras, ele explica que em sua arma cabe 12 balas, ele vai colocar 4 falsas, 4 verdadeiras e o resto deixar sem nada, se cair na verdadeira você morre, se cair na falsa você vai trabalhar pra eles e viver ali pra sempre e se não tiver nada, você vive.")
           escreva("\nEle colocou em ordem aleatória, e você tem que falar um número de 1 a 12....")
           escreva("\n:")
@@ -128,7 +128,7 @@ programa {
           }
           escolha(op1_8){
             caso'1':
-            escreva("\nSaindo do quarto você corre sem saber pra onde ir, mas acaba chegando em um cômodo onde tem uma porta que parece ser a sair!\nMas um dos sequestradores aparece e oferece uma chance de você sair de lá...que seria jogar um jogo muito conhecido por sua brutalidade....Roleta Russa. ")
+            escreva("\nSaindo do quarto você corre sem saber pra onde ir, mas acaba chegando em um cômodo onde tem uma porta que parece ser a sair!\nMas um dos sequestradores aparece e oferece uma chance de você sair de lá... que seria jogar um jogo muito conhecido por sua brutalidade.... Roleta Russa. ")
           escreva("\nSabendo que você não tem chance contra ele, você aceita o jogo e pede pra ele explicar as regras, ele explica que em sua arma cabe 12 balas, ele vai colocar 4 falsas, 4 verdadeiras e o resto deixar sem nada, se cair na verdadeira você morre, se cair na falsa você vai trabalhar pra eles e viver ali pra sempre e se não tiver nada, você vive.")
           escreva("\nEle colocou em ordem aleatória, e você tem que falar um número de 1 a 12....")
           escreva("\n:")
