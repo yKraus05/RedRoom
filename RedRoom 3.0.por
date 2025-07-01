@@ -22,7 +22,7 @@ programa {
       pare
     }escolha(op1){
       caso'1':
-      escreva("\nVocê abriu a porta e se depara com um corredor longo e vazio, angústiado por descobrir como sair daquele local estranho, você avista um homem no final do corredor com uma aparência estranha.\nMas você vai se aproximando devagar para tentar pedir ajuda...mas ele começa a tentar te atacar com uma faca. ")
+      escreva("\nVocê abriu a porta e se depara com um corredor longo e vazio, angústiado por descobrir como sair daquele local estranho, você avista um homem no final do corredor com uma aparência estranha.\nMas você vai se aproximando devagar para tentar pedir ajuda... mas ele começa a tentar te atacar com uma faca. ")
       escreva("\nOpções: ")
       escreva("\nCorrer e tentar se esconder (1)")
       escreva("\nLutar pela sua vida (2)")
@@ -51,7 +51,7 @@ programa {
       pare
     }escolha(op1_3){
       caso'1':
-      escreva("\nVocê abriu a porta e se depara com um corredor longo e vazio, angústiado por descobrir como sair daquele local estranho, você avista um homem no final do corredor com uma aparência estranha.\nMas você vai se aproximando devagar para tentar pedir ajuda...mas ele começa a tentar te atacar com uma faca")
+      escreva("\nVocê abriu a porta e se depara com um corredor longo e vazio, angústiado por descobrir como sair daquele local estranho, você avista um homem no final do corredor com uma aparência estranha.\nMas você vai se aproximando devagar para tentar pedir ajuda... mas ele começa a tentar te atacar com uma faca")
       escreva("\nOpções: ")
       escreva("\nCorrer e tentar se esconder (1)")
       escreva("\nLutar pela sua vida (2)")
